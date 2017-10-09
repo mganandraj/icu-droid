@@ -1,0 +1,1 @@
+%ANDROID_NDK%\ndk-build NDK_PROJECT_PATH=null NDK_APPLICATION_MK=C:\icu\source\Application.mk NDK_OUT=out NDK_LIBS_OUT=libs -C .\common V=1
